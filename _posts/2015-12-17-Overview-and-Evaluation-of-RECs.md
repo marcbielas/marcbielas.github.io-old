@@ -4,13 +4,13 @@ title: "Overview and Evaluation of Renewable Energy Credits"
 date: 2015-12-17
 ---
 
-##History of RECs
+**History of RECs**
 
 In 1983 riding on the wave of heightened environment awareness, Iowa became the first state to demand that a portion of the state’s electricity consumption come from renewable resources. This requirement was noticed and quickly replicated across the nation. In 1996, California Policy makers recommended that base-level requirements for the amount of renewable energy created be established. This recommendation, entitled the Renewable Portfolio Standard (RPS), went further than the original Iowa recommendation by mandating that a percentage (not a net amount) of the energy mix come from renewable resources. Despite being the first to propose statewide standards for renewable energy, California did not adapt the RPS initiative until 2003, after 11 other states had adopted the plan. Today, 34 states and Washington D.C. have RPS requirements ranging from a renewable energy base of 10% by the end of this year in Michigan, South Dakota and Wisconsin to one of 100% by 2040 in Hawaii.
 
 The mounting federal pressure for the adoption of RPS mandates led many states to take on standards that they themselves could not meet due to a lack of natural resources within their borders. Some states, for example, have little access to wind energy, solar or hydro and therefore are unable to meet their standards through internal production. Furthermore, the standards are usually split evenly between municipal power plants, meaning that areas without access to natural resources are expected to contribute as much (percentage wise) as areas with myriad resources. It was this national lack of direct access to renewable sources of energy coupled with the adoption of Renewable Portfolio Standards that led to the conception of Renewable Energy Certificates.
 
-##Defining the REC
+**Defining the REC**
 
 As stated, the idea of splitting renewable energy production electricity and the positive environmental externalities arose in the late 1990s with the introduction of the RPS system. An REC, therefore, represents only the environmental benefit that is derived from the use of renewable electricity and has no claim on the energy itself. Renewable Energy Certificates do not track CO2 or any metric other than overall measure of positive externalities as priced by the nine regional pseudo-governmental offices that track the certificates and the brokers who purchase the RECs for sale in private markets. The nine REC trackers are WREGIS, covering all states west of Colorado, ERCOT, covering Texas, NARR, covering most of the South, M-RETS, covering the Midwest, MIRECS, covering Michigan, NC-RETS, covering North Carolina, PJM GATS, covering New Jersey, Pennsylvania, the Virginias and often working with M-RETS, and finally NEPOOL-GIS, covering the North East. 
 
@@ -22,7 +22,7 @@ As the RECs are being generated the renewable power plants can make an array of 
 
 Despite changing ownership many times, RECs always remain within their regional tracking systems in order to allow for easy management. After having purchased an REC, the voluntary or compliance buyers are able to claim their positive externalities only once and therefore strategy is key. So long as spot market prices are lower than the fixed price of the REC purchasing agreement, a compliance buyer will bank the RECs purchased through the contract and buy and claim the cheaper RECs at spot prices. When spot prices are higher than the fixed price, the utility companies will claim the benefits from the RECs they had banked as a way to minimize the cost of adhering to the Renewable Portfolio Standard. Once an REC’s benefits have been claimed in either market, the REC is debited from the claimant’s account and the regional tracker retires the unique identification number in order to ensure that no double counting occurs. 
 
-##Markets and Regulation
+**Markets and Regulation**
 
 Due to the existence of multiple tracking systems across the United States, their differing standards of reporting and the prevalence of cashing in old Certificates, it is difficult to get accurate data for the size of the markets for Renewable Energy Certificates.
 
@@ -52,7 +52,7 @@ _Tracking and Double Counting_
 
 A crucial piece of the REC equation is the existence of the nine pseudo-governmental tracking systems. These tracking systems mostly exist to minimize the effect of double counting in the relatively unregulated REC markets. Whereas the voluntary market has a lot more moving parts and is harder for the tracking systems to oversee, the compliance market operates simply due to the RPS being the only claim to REC benefits. Municipal utility companies need not publicize the fact that they are purchasing RECs since the reason for the purchase is RPS compliance, as such, positive externalities are not claimed in the public sphere until they have been handed in to RPS auditors at the end of every year. This means that compliance RECs will not be double counted since they are easily retired en masse. On the other hand, with voluntary markets, self-reporting is necessary since these companies claim their RECs through press releases. The tracking systems can’t keep track of Press Releases from 5.3 million consumers, and therefore a possibility of double counting exists. It is interesting to note that the renewable power plants that are producing this electricity cannot claim to be producing renewable energy by nature of the physical electrons being split from the positive environmental externalities of it’s source makes any statement of environmental benefice by the power plant instantly retire the relevant certificates.
 
-##Criticism and Downfall
+**Criticism and Downfall**
 
 There are many reasons why Renewable Energy Certificates are a great construct and there are many reasons why they are a terrible one. In order to understand the benefits and pitfalls of RECs it is important to repeat that they were created in order to address the cost differential between the production for clean energy and the market electricity rates. The prices of RECs are meant to exceed the differential and thereby not only cover costs, but also provide capital investment to generate new renewable energy power plants.
 
@@ -67,7 +67,7 @@ Companies like Nike, who were the largest REC consumers in 2008, have since cut 
 In the coming years, it is foreseeable that the voluntary REC market will collapse due to its lack of efficacy in promoting real environmental and behavioral change. As large companies continue to divest from the voluntary markets, small companies and residential owners who do not have the money to conduct their own studies will continue to be duped by the dubious nature of the REC market and the EPA’s strong yet un-overseen partnership with the tracking systems. Looking forward, one can only hope that companies like Nike, Cisco, Intel, and Walmart will invest the money they pull out from RECs in the creation of new renewable energy plants that at least cover their own consumption and that they will be strong supporters of carbon offset programs that can measurably track our environmental progress. This paired with a more efficient federally mandated municipal RPS program, should be enough to push America to a point where capital flows more easily to and offers higher return from renewable resources like solar, wind and hydro.
 
 
-##References
+**References**
 
 Better Cost Control. "What Are REC's? An Introduction to Renewable Energy Credits." YouTube. YouTube, 18 June 2012. Web. 8 Dec. 2015.
 

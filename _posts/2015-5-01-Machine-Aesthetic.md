@@ -4,7 +4,6 @@ title: "The Machine Aesthetic: Breakdown and Reactions"
 date: 2015-5-01
 ---
 
-## The Machine Aesthetic: Breakdown and Reactions ##
 
 >“Thumping thump…Machines. Smash a man to atoms if they got him caught. Rule the world today. His machineries pegging away too. Like these, got out of hand: fermenting. Working away, tearing away.”
 James Joyce: _Ulysses_, Aeolus 77-84
