@@ -12,22 +12,22 @@ Before jumping into the similarities and dissimilarities between Foster's work f
 
 _Pantheon_
 
-![alt text](files/marcbielas.github.io/tree/master/photos/blog/pantheon.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/pantheon.png)
 
 
 The construction of the modern Pantheon (figure 1) has been a topic of great historical debate due to difficulties with dating material. The building was initially proposed by Marcus Agrippa, the Roman general, as a monument to honor and deify his close friend emperor, Augustus. Cassius Dio, a 3rd century consul documented that Augustus refused to be deified in the building, requesting that Agrippa deify his adoptive father, Julius Caesar instead. The initial temple was completed in 27 BC likely included a portico, an elliptical element and a transitional block to pair them. The concrete dome as it exists now, however, could not have been part of the original building since that technology was not readily available at the time. Instead, Agrippa's ellipse most likely resembled a Domitian-era military base found in Chester, England (figure 2). In 70 AD, Agrippa's building burnt down in a fire and was thereafter rebuilt by Domitian. In 110 AD, Domitian's Pantheon was struck by lightning and burnt down. Due to brickstamps demarcated with the dates of Trajan's rule, it is now thought that the last reconstruction of the Pantheon was, in fact, not initiated by Hadrian in 125 AD, but rather by Trajan. When Trajan died, Hadrian took over and began a process of rebuilding and rededicating many of the great buildings of Rome. By 127 AD, the Pantheon had been completed and rededicated to Marcus Agrippa. The new building, despite sharing the same plan, looked very different in elevation.
 
-![alt text](https://github.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/militairybase.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/militairybase.png)
 
 Modern building techniques allowed Hadrian and his architects to develop a 44m wide dome with a 9m wide oculus that brought a new light into the structure. The dome was constructed by laying six layers of concrete, each of a lighter density than the one beneath it. The bottom layers of heavy travertine easily supported the higher levels of pumice and pozzolanic ash. This new construction was "emblematic of Roman architecture and engineering" and finally showed clear dominion over Greek forms. Later changes were made to the Pantheon in the form of restorations. Two important ones to note are Septimus Severus and Caracalla due to their recognition on Pantheon inscriptions (Marder).
 
 _Reichstag_
 
-![alt text](https://github.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/reichstag.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/reichstag.png)
 
 The Reichstag was a Neo-Baroque parliamentary building originally built in 1894 by architect Paul Wallot to serve as a symbol for a newly united Germany. By 1933, however, it suffered the misfortune of becoming the "coffin of democracy" when it mysteriously burnt down (Rebuilding the Reichstag). Seizing the opportunity, Hitler blamed the communists and declared a state of emergency, allowing him to take executive control of the country. During the war, the Reichstag was of great importance to Hitler, who planned to construct a massive dome on the spot. The Große Halle or Volkshalle as it was known, was designed by Albert Speer, Hitler's Architect, to be something along the lines of a German Pantheon. In fact, it is well documented that Hitler was particularly fond of the Pantheon, stating: "From the time I experienced this building – no description, picture or photograph did it justice – I became interested in its history[…]For a short while I stood in this space(the rotunda) – what majesty! I gazed at the large open [oculus] and saw the universe and sensed what had given this space the name Pantheon – God and the world are one" (Giesler). Plans for Große Halle, however, were cut short by the raising of the Soviet flag over the Reichstag in 1945, signifying the end of German control of Berlin.
 
-![alt text](https://github.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/grosshall.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/grosshall.png)
 
 After the war, most Germans stayed away from the half-destroyed Reichstag due to its association with both the Nazi party and the national shame that came with losing the war. As a matter of fact, the only Germans who seemed to use the building were those who were tearing its interiors apart for firewood. During the separation of Berlin, from 1945 until 1989 when the Berlin Wall was knocked down, the Reichstag fell into disrepair as a result of wartime injuries, looting, and a political stunt that demolished the once-great dome.
 
@@ -37,12 +37,12 @@ Once the wall came down, there was a small push to harken back to the 1890s and 
 
 Both the Pantheon and Foster's Reichstag are famous for their domes, which effectively use light to capture the heavens. In the Pantheon, the oculus is the union of the earth and the sky, employing Vitruvian qualities of _Symmetria_ and _Eurythmia_ when contrasted with the 5,000-ton dome. In the Reichstag, lighting designer Claude Engel best described the quality of heaven by claiming that the dome is a "sky-catcher and not a sunlight catcher" (Rebuilding the Reichstag). In both cases, light is very literally piercing the building.
 
-![alt text](https://github.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/lightpantheon.png) ![alt text](https://github.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/lightreichstag.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/lightpantheon.png) ![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/lightreichstag.png)
 
 
 Another quality of light present in both buildings is the ability to make a visitor feel as though they have ascended into the heavens. In the Pantheon this is both a metaphorical and physical sensation. In Roman mythology the site of the building, Palus Caprae, is the location where Romulus, the founder of Rome becomes the god Quirinus and ascends into the heavens (also known as the apotheosis). Physically upon entering the building a spectator's eyes are forced upwards into the skies, an act that led Cassius Dio to believe that the name Pantheon is actually referring to "the domed vault which represents the heavens" and the feeling of apotheosis, rather than an actual collective of deities. In the Reichstag, the spectator is physically walking on air. Not only does the transparent dome rise high above any nearby building, the double helix ramp that lines its interior is suspended rather than supported from below, leading to the physical effect of hanging from the heavens. Additionally, the "carrot," the conical structure that pierces the building is covered in mirrors which further reflect light and give a visitor the feeling of floating.
 
-![alt text](https://github.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/carrot.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/carrot.png)
 
 
 A third quality that creates heaven in these two buildings is the fact that they're open to the sky. While the Pantheon is physically open and has a convex floor and series of drains to handle any rainwater, the Reichstag has the carrot, which is an exhaust pipe that constantly guarantees not only fresh airflow, but also sunlight, creating "outside" spaces throughout most of the interior of the building. Together, these three qualities elevate the status of both buildings to an encapsulation of heaven on earth and in the Reichstag's case, a liberation from the darkness of the building's past.

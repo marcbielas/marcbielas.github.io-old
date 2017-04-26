@@ -30,7 +30,7 @@ _Compliance Markets and ACPs_
 
 The REC compliance market is complex by nature of it dealing with the protected filings of privately owned utility companies that adhere to the Renewable Portfolio Standards as well as the non-standardized reporting of regional tracking systems. This complexity makes it difficult to accurately estimate the size of the compliance REC market. With a total of 3,306 municipal electric utility companies across the United States of which roughly 35% are privately owned a loose calculation of REC market size would be as follows. The difference between the current renewable energy production capacity for each municipality and the Renewable Portfolio Standards would be calculated. The resulting net difference in renewable energy production per municipality is multiplied by the total electricity use in each municipality. This number is divided by 1MWh and then multiplied by the average price of RECs for that fiscal year. It is important to note the sign of the net percentage as this accounts for either an overproduction according to RPS Standards or a need to purchase RECs. The total sum of all the municipalities with RPS standards would then give a rough estimate for the size of the REC compliance market. 
 
-![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/master/photos/blog/pantheon.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/photos/blog/RECS.png)
 
 
 While this estimate provides a precise number for the amount of RECs needed to fill the net RPS gap, the monetary value of the RECs is inaccurate since banking is prevalent.
