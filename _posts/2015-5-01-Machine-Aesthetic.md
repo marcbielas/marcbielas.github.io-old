@@ -29,7 +29,7 @@ Published in 1915, in the midst of the Modernist period, Franz Kafka's illustrio
 
 Perhaps the most important of human extensions was the house, described by Le Corbusier in _Toward a New Architecture_ as "a machine for living in. Like many artists of the time, Le Corbusier believed that industrialization was corrupting the world by "alienating man from nature," (Anderson). According to Anthony Sutcliffe, author of "A Vision of Utopia," an exploration of Modernist urban planning, Le Corbusier was unlike many of his contemporaries. To Le Corbusier, the only solution was to embrace industrialism in terms of "behaviors, attitudes, and the ordering of the environment." He drafted endless city plans, trying to design communities that "were perfectly suited to the needs of the machine aged man" (Radiant City 106). His proposals called for segregating pedestrian areas and motorways not as a means of reclaiming nature, but rather a means of appropriating human-freedom to motor vehicles, something he viewed as "a prerequisite to economic success" (Anderson). Trying to solve the problem of industrialization and the strong lack of perceived self-importance, Le Corbusier actually ended up stoking the fire, emphasizing the importance of technology and separating groups of citizens into preplanned agricultural communities to support his metropolis. Le Corbusier thought of his plans as an integral part of the new, Modernist civilization and ended up accidentally creating a monotonous place where mechanization was as prevalent as the human inferiority to the machine. While well intentioned, Le Corbusier's plans
 
-![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/radiantcity.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/master/photos/blog/radiantcity.png)
 
 
 Radiant City, Le Corbusier
@@ -38,7 +38,7 @@ would have probably led to the wrong extension of the human form—a mechanized 
 
 Another example of efficiency in modernized architecture is Margarete Schutte-Lihotzky, the Austrian architect's Frankfurt Kitchen. Schutte-Lihotzky was quoted in 1926 as saying "firstly life is work and secondly it is relaxing, company, pleasures," an ideal which plays a huge role in her kitchen design. The Frankfurt Kitchen is a 1.9 x 3.4 meter total installation that sought to "minimize the number of steps needed to work in the kitchen." 
 
-![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos//blog/frankfurtkitchen.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/master/photos/blog/frankfurtkitchen.png)
 
 
 The installation came with everything from bins dedicated and labeled for different ingredients, to a built in stove. It was so well designed that it was hailed as "a scientific professionalization of the domestic space" by a recent exhibit at the Corcoran Gallery of Art in Washington D.C. entitled "Modernism: Designing a New World"—a further example of the modernist emphasis on machine-like efficiency extending to human behavior.
@@ -63,21 +63,21 @@ Due to the research behind her work, BF Skinner, the psychologist, disqualified 
 
 _Art_
 
-![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/shovel.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/master/photos/blog/shovel.png)
 
 
 Much like Gertrude Stein and her automatic writings, Marcel Duchamp redefined the art process by introducing the readymade, a work of art that was taken from an every day setting (a bicycle wheel, a toilet, a shovel). Despite the mechanization of the process in that a machine (as opposed to the artist who then re-appropriated the object as art) crafted the work, Duchamp shows a brighter side of Modernism, the ability to acknowledge the art within the quotidian world. And although Duchamp sought to prove that the everyday item was valuable as a form of art, many of his unsigned works such as "The Fountain" were disposed of as junk as opposed to receiving the recognition they deserved.
 
-![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/mechanic.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/master/photos/blog/mechanic.png)
 
 
 The Modernist movement and its Cubist and Futurist offspring were further entranced by the concept of human mechanization both in concept and movement. A human machine, or possibly factory, can be seen in Fernand Leger's "The Mechanic (1920)" a work long revered as the Mona Lisa of Modernism. The mechanic is not only the creator of automated objects, but in this case seems to also be a machine himself. His muscles and fingers come apart easily almost as if interchangeable and his head tilts mechanically to the side. On top of that, he is smoking, which brings up steam engine imagery, further solidifying the concept of the mechanic as a machine in and of himself.
 
-![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/fritzkahn.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/master/photos/blog/fritzkahn.png)
 
 A more clear representation of the human as a machine is Fritz Kahn's "Der Mensch als Industriepalast" (Man as Industrial Palace), a depiction of the internal workings of a man's body as a specialized factory. Storage and processing takes place at the head and wire clusters carry information down the spine. There is a food processing network in the stomach as well as a conveyor belt replaces the heart which pumps blue pellets in one direction and red pellets in the other. Kahn sought to show that the man and the machine both "exhibit far-reaching similarities. Both derive their energy from the combustion of carbon, which they obtain from plants. Man, the weaker machine, utilizes fresh plants for fuel, while the locomotive, a stronger machine, uses fossilized plants in the form of coal."
 
-![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/spiralexpansion.png) ![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/continuityinspace.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/master/photos/blog/spiralexpansion.png) ![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/master/photos/blog/continuityinspace.png)
 
 Kahn's work is the height of human mechanization and the idea that the body is meant to internally operate as a rational machine as opposed to an emotional being. In terms of external operation, however, Umberto Boccioni's "Spiral Expansion of Muscles In Space" (right) and "Unique Forms of Continuity in Space" (left) both serve as paradigms for mechanical motion. In both cases we see the mapped geometric arcs of all the possible muscular movements at that current position, naturally restricted due to the machine operations that Boccioni portrays. Despite the winged appearance of both figures, they seem heavy, clunky and robotic, likely a reference to the radical championing of the mechanical that made up the Futurist aesthetic. In the Cubist sense of breaking up the larger form, specifically comparing examples from sculptors Jacques Lipchitz ("Man with a Guitar") and Boccioni ("Development of a Bottle in Space"), one can see that the inanimate form is much like the human form when it is torn down to its base, further erasing the lines between man and machine.
 
@@ -85,7 +85,7 @@ Kahn's work is the height of human mechanization and the idea that the body is m
 
 Another great interpretation of mechanized form comes from the artistic film of the time, most notably _Ballet Mecanique_ directed by Fernand Leger in 1924 and _Entr'acte_ done the same year by Rene Clair—the former being an exploration of artistic movement as mechanical imitation and the latter showing a more sinister view or mechanical immortality.
 
-![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/tree/master/photos/blog/ballet.png)
+![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/master/photos/blog/ballet.png)
 
 _Ballet Mecanique_ begins and ends with a mechanized ballerina (shown below), followed by a quick succession of mechanical rotations (amusement park teacups, whisks, slides, pistons, and records) to represent the rotations of a ballerina's spins. These images are interspersed with images of the ballerina's eyes, mouth, and body as a way of repurposing the mechanical movement to the ballerina as parts of her body. This motif continues through a display of dancing prosthetic legs near the end which serves to symbolize the union between the human and the mechanical.
 
