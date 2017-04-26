@@ -112,7 +112,7 @@ _Figure 1._ A diagram of the island of Atlantis (original source unknown).
 ![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/master/photos/blog/ideal-cities/2.png)
 
 
-_Figure 2._ An elevation of a wind tower meant to be on the Vitruvian city walls. (Source: Stuart &amp; Revetts's "The Antiquities of Athens (Vol.I)", 1762).
+_Figure 2._ An elevation of a wind tower meant to be on the Vitruvian city walls. (Source: Stuart & Revetts's "The Antiquities of Athens (Vol.I)", 1762).
 
 ![alt text](https://raw.githubusercontent.com/marcbielas/marcbielas.github.io/master/photos/blog/ideal-cities/3.png)
 
@@ -179,7 +179,7 @@ Lagopoulos, Alexandros Ph. "The semiotics of the Vitruvian city." Semiotica 2009
 
 Macovei, Radu R. "From Alberti to Koolhaas: Tracing an Urban Conception." PhD diss., The Architectural Association School of Architecture, Spring 2012.
 
-Millon, Henry A. _Italian Renaissance Architecture: from Brunelleschi to Michelangelo_. London: Thames &amp; Hudson, 1996.
+Millon, Henry A. _Italian Renaissance Architecture: from Brunelleschi to Michelangelo_. London: Thames & Hudson, 1996.
 
 Morris, Roderick C. "If a City Were Perfect, What Would It Look Like?" _The New York Times_, May 8, 2012, Art Review sec. May 8, 2012. Accessed December 10, 2016. http://www.nytimes.com/2012/05/09/arts/09iht-conway09.html.
 
@@ -195,7 +195,7 @@ Rossi, Aldo, Diane Yvonne. Ghirardo, Joan Ockman, and Peter Eisenman. _The Archi
 
 Russano, Massimiliano. ""Ideal City" Paintings Express Renaissance Concepts." _The Epoch Times_(Australia), June 20, 2012.
 
-"Sforzinda and Utopia." _A Showcase_(web log), May 3, 2011. Accessed December 10, 2016. [http://redevilknight.blogspot.com/](http://redevilknight.blogspot.com/).
+"Sforzinda and Utopia." _A Showcase_(web log), May 3, 2011. Accessed December 10, 2016. http://redevilknight.blogspot.com/(http://redevilknight.blogspot.com/).
 
 Plato, C. J. Emlyn-Jones, and William Preddy. Republic. Cambridge, MA: Harvard University Press, 2013.
 
