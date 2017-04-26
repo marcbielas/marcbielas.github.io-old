@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writing
 title: "Overview and Evaluation of Renewable Energy Credits"
 date: 2015-12-17
 ---

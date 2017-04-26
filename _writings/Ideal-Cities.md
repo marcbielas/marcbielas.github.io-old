@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writing
 title: "Ideal Cities of the Renaissance: Two Models of Utopia"
 date: 2016-12-20
 --- 

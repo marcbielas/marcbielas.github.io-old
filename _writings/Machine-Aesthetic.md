@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: writing
 title: "The Machine Aesthetic: Breakdown and Reactions"
 date: 2015-5-01
 ---
