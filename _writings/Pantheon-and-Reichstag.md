@@ -1,5 +1,5 @@
 ---
-layout: writing
+layout: post
 title: "The Pantheon and Reichstag: An Architectural Dialogue with the Past"
 date: 2016-11-01
 ---
