@@ -12,7 +12,7 @@ Before jumping into the similarities and dissimilarities between Foster's work f
 
 _Pantheon_
 
-![alt text](files/photos/blog/pantheon.png)
+![alt text](files/marcbielas.github.io/tree/master/photos/blog/pantheon.png)
 
 
 The construction of the modern Pantheon (figure 1) has been a topic of great historical debate due to difficulties with dating material. The building was initially proposed by Marcus Agrippa, the Roman general, as a monument to honor and deify his close friend emperor, Augustus. Cassius Dio, a 3rd century consul documented that Augustus refused to be deified in the building, requesting that Agrippa deify his adoptive father, Julius Caesar instead. The initial temple was completed in 27 BC likely included a portico, an elliptical element and a transitional block to pair them. The concrete dome as it exists now, however, could not have been part of the original building since that technology was not readily available at the time. Instead, Agrippa's ellipse most likely resembled a Domitian-era military base found in Chester, England (figure 2). In 70 AD, Agrippa's building burnt down in a fire and was thereafter rebuilt by Domitian. In 110 AD, Domitian's Pantheon was struck by lightning and burnt down. Due to brickstamps demarcated with the dates of Trajan's rule, it is now thought that the last reconstruction of the Pantheon was, in fact, not initiated by Hadrian in 125 AD, but rather by Trajan. When Trajan died, Hadrian took over and began a process of rebuilding and rededicating many of the great buildings of Rome. By 127 AD, the Pantheon had been completed and rededicated to Marcus Agrippa. The new building, despite sharing the same plan, looked very different in elevation.
